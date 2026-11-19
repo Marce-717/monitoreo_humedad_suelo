@@ -1,2 +1,2 @@
 # monitoreo_humedad_suelo
-# de la vid
+### Este es un repositorio para depositar toda la información correspondiente a la vid
